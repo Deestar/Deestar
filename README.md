@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">Hey there😇, My Name is Afuwape Doyinsola, I am a Freelance Web Developer💪</div>  
   
 
