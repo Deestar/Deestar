@@ -1,8 +1,8 @@
-### Hi there 👋
+Hey there😇, My Name is Afuwape Doyinsola, I am a Freelance Web Developer💪
+🔭 I’m currently working on a quiz application with Reactjs
 
-<!--
-**Deestar/Deestar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning Reactjs and its component
 
-Here are some ideas to get you started:
+I currently work with **PHP/MYSQL JAVASCRIPT REACTJS **
 
-"ATOM"
+⚡ Fun fact: i user Ctrl+S before every sneeze.
