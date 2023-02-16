@@ -59,4 +59,6 @@
 </a> 
 </div>  
   
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deestar&show_icons=true&locale=en&layout=compact" alt="deestar" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deestar&show_icons=true&locale=en" alt="deestar" /></p>
