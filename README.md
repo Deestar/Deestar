@@ -2,10 +2,10 @@
 - 💯 I currently work with PHP/MYSQL JAVASCRIPT REACTJS   
 - 🤝   I am available for any collaboration, I love contributing to projects
 - 🌱 I’m currently learning Reactjs and its component  
-- 🔭 I’m currently working on a quiz application with Reactjs  
+- 🔭 I’m currently working on a social site.
 - ❤️ I'm always eager to learn and passionate about growth.  
 
-- ⚡ Fun fact: i user Ctrl+S before every sneeze.  
+- ⚡ Fun fact: i use Ctrl+S before every sneeze.  
 
 ### <div align="center"> I CURRENTLY WORK WITH THE FOLLOWING TECHNOLOGIES </div>
 <div align="center">  
