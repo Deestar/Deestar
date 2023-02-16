@@ -51,7 +51,7 @@
  <a href="https://twitter.com/Deestar46265411" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/rishavanand](https://deestar.github.io" target="_blank">
+<a href="[(https://deestar.github.io](https://t.co/BOdJAeVLbB)" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/afuwape-doyinsola-567477259" target="_blank">
