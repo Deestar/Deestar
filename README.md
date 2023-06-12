@@ -1,7 +1,7 @@
 ### <div align="center">Hey There😇, My Name is Afuwape Doyinsola, I am a Freelance Web Developer💪</div>  
 - 💯 I currently work with PHP/MYSQL JAVASCRIPT REACTJS LARAVEL
 - 🤝 I am available for any collaboration, I love contributing to projects
-- 🌱 I am currently building an anonymous chat room
+- 🌱 I am currently Learning NEXTJS
 - 🔭 I’m currently working on a social site.
 - ❤️ I'm always eager to learn and passionate about growth.  
 
