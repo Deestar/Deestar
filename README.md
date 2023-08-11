@@ -1,8 +1,8 @@
 ### <div align="center">Hey There😇, My Name is Afuwape Doyinsola, I am a Freelance Web Developer💪</div>  
-- 💯 I currently work with PHP/MYSQL JAVASCRIPT REACTJS LARAVEL
+- 💯 I currently work with PHP/MYSQL JAVASCRIPT REACTJS LARAVEL NextJs
 - 🤝 I am available for any collaboration, I love contributing to projects
-- 🌱 I am currently Learning NEXTJS
-- 🔭 I’m currently working on a social site.
+- 🌱 I am reading all docs and learning about tailwindCss
+- 🔭 I’m currently building on a kicks store with NextJs and Laravel.
 - ❤️ I'm always eager to learn and passionate about growth.  
 
 - ⚡ Fun fact: i use Ctrl+S before every sneeze.  
@@ -16,6 +16,7 @@
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+  <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a> 
 </div>
 
 
@@ -31,6 +32,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+ <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a> 
 </div>
 
 </td><td valign="top" width="33%">
